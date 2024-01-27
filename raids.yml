@@ -1,0 +1,43 @@
+raid-shiny-chances:
+- 1024.0
+- 1024.0
+- 1024.0
+- 1024.0
+- 1024.0
+raid-h-a-chances:
+- 150.0
+- 125.0
+- 100.0
+- 75.0
+- 50.0
+raid-gigantamax-factor-chances:
+- 150.0
+- 150.0
+- 150.0
+- 150.0
+- 150.0
+den-spawn-chance-modifier: 0.50000001192092896
+den-respawn-time: 50
+den-respawn-chance: 0.9
+den-star-weights:
+- 19
+- 12
+- 9
+- 3
+- 1
+raid-have-legendaries: true
+raid-have-ultra-beasts: true
+raid-master-ball-block:
+- false
+- false
+- false
+- false
+- false
+raid-only-leader-can-catch:
+- false
+- false
+- false
+- false
+- false
+raid-blacklist:
+raid-dens-breakable: true
